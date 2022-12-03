@@ -1,0 +1,13 @@
+C:\Users\loris\Desktop\Homework7VisualBasic\bin\Debug\HW7_VB.exe.config
+C:\Users\loris\Desktop\Homework7VisualBasic\bin\Debug\HW7_VB.exe
+C:\Users\loris\Desktop\Homework7VisualBasic\bin\Debug\HW7_VB.pdb
+C:\Users\loris\Desktop\Homework7VisualBasic\bin\Debug\HW7_VB.xml
+C:\Users\loris\Desktop\Homework7VisualBasic\obj\Debug\HW7_VB.vbproj.AssemblyReference.cache
+C:\Users\loris\Desktop\Homework7VisualBasic\obj\Debug\HW7_VB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\loris\Desktop\Homework7VisualBasic\obj\Debug\HW7_VB.Form1.resources
+C:\Users\loris\Desktop\Homework7VisualBasic\obj\Debug\HW7_VB.Resources.resources
+C:\Users\loris\Desktop\Homework7VisualBasic\obj\Debug\HW7_VB.vbproj.GenerateResource.cache
+C:\Users\loris\Desktop\Homework7VisualBasic\obj\Debug\HW7_VB.vbproj.CoreCompileInputs.cache
+C:\Users\loris\Desktop\Homework7VisualBasic\obj\Debug\HW7_VB.exe
+C:\Users\loris\Desktop\Homework7VisualBasic\obj\Debug\HW7_VB.xml
+C:\Users\loris\Desktop\Homework7VisualBasic\obj\Debug\HW7_VB.pdb
