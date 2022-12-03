@@ -1,0 +1,17 @@
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\obj\Debug\net6.0-windows\Homework2.1Csharp.csproj.AssemblyReference.cache
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\obj\Debug\net6.0-windows\Homework2._1Csharp.Form1.resources
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\obj\Debug\net6.0-windows\Homework2.1Csharp.csproj.GenerateResource.cache
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\obj\Debug\net6.0-windows\Homework2.1Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\obj\Debug\net6.0-windows\Homework2.1Csharp.AssemblyInfoInputs.cache
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\obj\Debug\net6.0-windows\Homework2.1Csharp.AssemblyInfo.cs
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\obj\Debug\net6.0-windows\Homework2.1Csharp.csproj.CoreCompileInputs.cache
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\bin\Debug\net6.0-windows\Homework2.1Csharp.exe
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\bin\Debug\net6.0-windows\Homework2.1Csharp.deps.json
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\bin\Debug\net6.0-windows\Homework2.1Csharp.runtimeconfig.json
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\bin\Debug\net6.0-windows\Homework2.1Csharp.dll
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\bin\Debug\net6.0-windows\Homework2.1Csharp.pdb
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\obj\Debug\net6.0-windows\Homework2.1Csharp.dll
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\obj\Debug\net6.0-windows\refint\Homework2.1Csharp.dll
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\obj\Debug\net6.0-windows\Homework2.1Csharp.pdb
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\obj\Debug\net6.0-windows\Homework2.1Csharp.genruntimeconfig.cache
+C:\Users\loris\source\repos\Homework2.1Csharp\Homework2.1Csharp\obj\Debug\net6.0-windows\ref\Homework2.1Csharp.dll
