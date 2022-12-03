@@ -1,0 +1,17 @@
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\bin\Debug\net6.0-windows\Homework1Csharp.exe
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\bin\Debug\net6.0-windows\Homework1Csharp.deps.json
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\bin\Debug\net6.0-windows\Homework1Csharp.runtimeconfig.json
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\bin\Debug\net6.0-windows\Homework1Csharp.dll
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\bin\Debug\net6.0-windows\Homework1Csharp.pdb
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\obj\Debug\net6.0-windows\Homework1Csharp.csproj.AssemblyReference.cache
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\obj\Debug\net6.0-windows\Homework1Csharp.Form1.resources
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\obj\Debug\net6.0-windows\Homework1Csharp.csproj.GenerateResource.cache
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\obj\Debug\net6.0-windows\Homework1Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\obj\Debug\net6.0-windows\Homework1Csharp.AssemblyInfoInputs.cache
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\obj\Debug\net6.0-windows\Homework1Csharp.AssemblyInfo.cs
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\obj\Debug\net6.0-windows\Homework1Csharp.csproj.CoreCompileInputs.cache
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\obj\Debug\net6.0-windows\Homework1Csharp.dll
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\obj\Debug\net6.0-windows\refint\Homework1Csharp.dll
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\obj\Debug\net6.0-windows\Homework1Csharp.pdb
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\obj\Debug\net6.0-windows\Homework1Csharp.genruntimeconfig.cache
+C:\Users\loris\source\repos\Homework1Csharp\Homework1Csharp\obj\Debug\net6.0-windows\ref\Homework1Csharp.dll
